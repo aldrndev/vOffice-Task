@@ -1,0 +1,23 @@
+[
+  {
+    "name": "aldrin mursidi",
+    "email": "aldrin@gmail.com",
+    "password": "123456",
+    "phone": "08111223344",
+    "credit": 100
+  },
+  {
+    "name": "john doe",
+    "email": "john@gmail.com",
+    "password": "123456",
+    "phone": "081233312311",
+    "credit": 50
+  },
+  {
+    "name": "paul atreide",
+    "email": "paul@gmail.com",
+    "password": "123456",
+    "phone": "081233312311",
+    "credit": 100
+  }
+]

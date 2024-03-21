@@ -1,0 +1,30 @@
+[
+  {
+    "ClientId": 1,
+    "RoomTypeId": 1,
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "quotaUsed": "5"
+  },
+  {
+    "ClientId": 1,
+    "RoomTypeId": 2,
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "quotaUsed": "5"
+  },
+  {
+    "ClientId": 1,
+    "RoomTypeId": 3,
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "quotaUsed": "5"
+  },
+  {
+    "ClientId": 2,
+    "RoomTypeId": 2,
+    "startTime": "20:00",
+    "endTime": "21:00",
+    "quotaUsed": "3"
+  }
+]
